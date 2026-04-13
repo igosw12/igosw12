@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">IT student from Poland.</h3>
+<h3 align="center">Test Developer from Poland.</h3>
 
 - 📫 How to reach me **igosw12@gmail.com**
 
